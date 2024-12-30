@@ -1,16 +1,23 @@
-## Hi there 👋
+![laptop](src/laptop.gif)
 
-<!--
-**thewhite2255dev/thewhite2255dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hello, I'm Thewhite2255</h1>
+ 
+<h3 align="center">&#8220;The most difficult part of programming isn’t solving problems, it’s understanding the task&#8221;</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="src/programer.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’am interested in programming, coding. In short, everything that refers to computers 😉
+
+- 🔭 I’m currently working on [personal projects][github]
+
+- 🌱 I’m currently learning **Front-End**
+
+- 👨‍💻 All of my projects are available on [github]
+
+- 📫 How to reach me: my gmail: thewhite2255.dev@gmail.com
+
+<h3>Connect with me: <h3>
+
+<a href="#">  <img src="src/discord.gif" width="48px" height="48px"/></a>
+
+[github]: https://github.com/Thewhite2255?tab=repositories
