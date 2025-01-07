@@ -1,6 +1,6 @@
 ![laptop](src/laptop.gif)
 
-<h1 align="center">👋 Hello, I'm Thewhite2255</h1>
+<h1 align="center">👋 Hello, I'm Thewhite2255 Dev</h1>
  
 <h3 align="center">&#8220;The most difficult part of programming isn’t solving problems, it’s understanding the task&#8221;</h3>
 
