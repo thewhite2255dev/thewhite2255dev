@@ -6,18 +6,31 @@
 
 <img align="right" alt="Coding" width="400" src="src/programer.gif" />
 
-- 👀 I’am interested in programming, coding. In short, everything that refers to computers 😉
+## 🚀 About Me
 
-- 🔭 I’m currently working on [personal projects][github]
+I'm a **Full Stack Web Developer** passionate about building scalable and modern web applications. I focus on **performance, UX/UI, and clean code**. I love exploring new technologies and contributing to open-source projects.
 
-- 🌱 I’m currently learning **Front-End**
+## 🛠 Tech Stack
 
-- 👨‍💻 All of my projects are available on [github]
+- **Frontend:** Next.js, React, Tailwind CSS, ShadCN
+- **Backend:** Next.js Server Actions, Prisma, PostgreSQL
+- **Dev Tools:** TypeScript, Lucide React, Cloudinary, Arduino Uno R3
 
-- 📫 How to reach me: my gmail: thewhite2255.dev@gmail.com
+## 🔥 Featured Projects
 
-<h3>Connect with me: <h3>
+🚧 *Coming Soon: Amazing projects will be showcased here!* 🚧
 
-<a href="#">  <img src="src/discord.gif" width="48px" height="48px"/></a>
+## 📊 GitHub Stats
 
-[github]: https://github.com/Thewhite2255?tab=repositories
+
+
+## 🤝 Let's Connect!
+
+- 🚀 [Portfolio](#) *(Coming Soon!)*
+- 📧 [Email](mailto\:thewhite2255.dev@email.com)
+- 💻 [GitHub](https://github.com/Thewhite2255?tab=repositories)
+
+---
+
+*"Building the future, one line of code at a time."*
+
