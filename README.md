@@ -1,6 +1,6 @@
 ![laptop](src/laptop.gif)
 
-<h1 align="center">👋 Hello, I'm Thewhite2255 Dev</h1>
+<h1 align="center">👋 Hello, I'm Beugre Israël Degni (Thewhite2255 Dev)</h1>
  
 <h3 align="center">&#8220;The most difficult part of programming isn’t solving problems, it’s understanding the task&#8221;</h3>
 
@@ -8,23 +8,44 @@
 
 <h3>🚀 About Me<h3>
 
-I'm a **Full Stack Web Developer** passionate about building scalable and modern web applications. I focus on **performance, UX/UI, and clean code**. I love exploring new technologies and contributing to open-source projects.
+Passionate about web development, I'm a **Full Stack Web Developer** specializing in the creation of **modern, high-performance and scalable** applications. I design robust, optimized solutions tailored to my customers' needs. I also enjoy exploring new technologies and contributing to open-source projects.
 
 <h3>🛠 Tech Stack<h3>
 
 - **Frontend:** Next.js, React, Tailwind CSS, ShadCN
-- **Backend:** Next.js Server Actions, Prisma, PostgreSQL
-- **Dev Tools:** TypeScript, Lucide React, Cloudinary, Arduino Uno R3
+- **Backend:** Next.js (server Actions), Prisma, PostgreSQL, MongoDB, Express, Node.js, API REST
+- **DevOps & Tools:** Vercel, Vs code
+
+<h3>🚀 What I Do<h3>
+Build full-stack applications from concept to deployment.
+
+Optimize performance, SEO, and user experience.
+
+Write maintainable and scalable code following best practices.
+
+Contribute to open-source and explore emerging technologies.
+
+<h3>🔹 Why Work With Me?<h3>
+
+- **Problem Solver**: Turn complex requirements into efficient solutions.
+- **Performance-Driven**: Focus on speed, security, and scalability
+- **Adaptable**: Stay updated with the latest industry trends.
+---
+**Key Strengths**
+
+- ✅ Full SDLC expertise (Design → Development → Deployment)
+- ✅ Strong TypeScript & Next.js proficiency
+- ✅ Database optimization
+- ✅ Clean, tested, and documented code
+---
 
 <h3>🔥 Featured Projects<h3>
-
 
 🚧 *Coming Soon: Amazing projects will be showcased here!* 🚧
 
 <h3>📊 GitHub Stats<h3>
 
-
-
+🚧 *Coming Soon: GitHub Stats will be showcased here!* 🚧
 
 <h3>🤝 Let's Connect!<h3>
 
@@ -38,5 +59,6 @@ I'm a **Full Stack Web Developer** passionate about building scalable and modern
 
 ---
 
-*"Building the future, one line of code at a time."*
+*<p>Open to freelance projects, collaborations, and tech challenges. Let’s build something great! 🚀<p>*
+*<p>Building the future, one line of code at a time. </> <p>*
 
