@@ -53,10 +53,6 @@ Contribute to open-source and explore emerging technologies.
 - 📧 [Email](mailto\:thewhite2255.dev@email.com)
 - 💻 [GitHub](https://github.com/Thewhite2255?tab=repositories)
 
-<h3>📡 Social networks<h3>
-
-<a href="#"><img src="src/discord.gif" width="48px" height="48px"/></a>
-
 ---
 
 *<p>Open to freelance projects, collaborations, and tech challenges. Let’s build something great! 🚀<p>*
